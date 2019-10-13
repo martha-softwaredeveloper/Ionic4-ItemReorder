@@ -2,7 +2,7 @@
 
 I followed the tutorial of Joshua Morony: [[IONIC 4] Reordering List Items #ionic #angular](https://youtu.be/8kZTK32PuIg)
 
-<img src="https://github.com/martha-softwaredeveloper/Ionic4-ItemReorder/blob/master/src/assets/Screen-shot.png" width="500"/>
+<img src="https://github.com/martha-softwaredeveloper/Ionic4-ItemReorder/blob/master/src/assets/Screen-shot.png" width="600"/>
 
 ## App Configuration
 
